@@ -42,7 +42,6 @@ class ProjectListItem extends Component {
         const span = this.props.span;
 
         return (
-            <Grid item lg={span} md={span} sm={span} xs={12}>
                 <div className={"work-box box-other"} onClick={this.handleOnClick} onPointerEnter={this.onPointerEnter} onPointerLeave={this.onPointerLeave}>
                     <div className="work-img-container">
                         {(hasImg)? <img alt={workData.title} src={imgSrc} className={(hasGif)? gifClassName : "work-img"} /> : <div className="work-empty-img"><div className="work-empty-img-text">no preview image</div></div>}
@@ -67,7 +66,6 @@ class ProjectListItem extends Component {
                         </Grid>
                     </div>
                 </div>
-            </Grid>
         );
     }
 }

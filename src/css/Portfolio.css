@@ -243,6 +243,13 @@ a {
     border-image: url(./img/border-square-other-left-x32.png) 7 fill repeat;
 }
 
+.work-box-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .work-box {
     background-color: rgba(0, 0, 0, 0);
 
@@ -258,9 +265,9 @@ a {
 
     max-width: 240px;
     min-height: 330px;
-    
+    margin: 10px;
+
     position: relative;
-    align-items: flex-start;
 }
 
 .work-box:hover {

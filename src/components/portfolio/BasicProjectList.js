@@ -42,7 +42,7 @@ class BasicProjectList extends Component {
             return <ProjectListItem key={work.title} workData={work} span={itemSpan} onClick={this.props.onClickOnListItem}/>
         });
         
-        let lgContainerSpan = (this.props.windowWidth > 1600)? 7 : 12;
+        let lgContainerSpan = (this.props.windowWidth > 1600)? 10 : 12;
 
         return (
             <div>
@@ -65,12 +65,9 @@ class BasicProjectList extends Component {
                             </div>}
                     </Grid>
                     <Grid item lg={lgContainerSpan} md={12} sm={12} xs={12}>                            
-                        <Grid 
-                        container
-                        spacing={16}
-                        direction="row">
+                        <div className="work-box-container">
                             {worksItem}
-                        </Grid>
+                        </div>
                     </Grid>
                 </Grid>
             </div>
