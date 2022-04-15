@@ -257,6 +257,10 @@ a {
     z-index: 0;
 
     max-width: 240px;
+    min-height: 330px;
+    
+    position: relative;
+    align-items: flex-start;
 }
 
 .work-box:hover {
@@ -381,6 +385,12 @@ a {
     text-align: center;
 
     color: #f6d6bd;
+}
+
+.work-development-detail-group {
+    bottom: 0;
+    position:absolute;
+    width: 100%;
 }
 
 .work-job {

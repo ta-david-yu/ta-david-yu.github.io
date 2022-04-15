@@ -30,7 +30,6 @@ class ProjectListItem extends Component {
 
     render() {
         const workData = this.props.workData;
-        const boxClassName = "work-box box-other";
 
         const hasImg = (workData.img !== "");
         const hasGif = (workData.gif !== "");
@@ -44,20 +43,19 @@ class ProjectListItem extends Component {
 
         return (
             <Grid item lg={span} md={span} sm={span} xs={12}>
-                <Grid container direction="column" alignItems="center">
-                    <div className={boxClassName} 
-                    onClick={this.handleOnClick} onPointerEnter={this.onPointerEnter} onPointerLeave={this.onPointerLeave}>
-                        <div className="work-img-container">
-                            {(hasImg)? <img alt={workData.title} src={imgSrc} className={(hasGif)? gifClassName : "work-img"} /> : <div className="work-empty-img"><div className="work-empty-img-text">no preview image</div></div>}
-                            {(hasGif)? <img alt={workData.title} src={gifSrc} className="work-gif" /> : <div className="work-gif"></div>}
-                            {hasGif && (isHovered? <div className="work-gif-note hover">GIF</div> : <div className="work-gif-note">GIF</div>)}
-                        </div>
-                        <div className="work-title">
-                            {workData.title}
-                        </div>
-                        <div className="work-job">
-                            {workData.job}
-                        </div>
+                <div className={"work-box box-other"} onClick={this.handleOnClick} onPointerEnter={this.onPointerEnter} onPointerLeave={this.onPointerLeave}>
+                    <div className="work-img-container">
+                        {(hasImg)? <img alt={workData.title} src={imgSrc} className={(hasGif)? gifClassName : "work-img"} /> : <div className="work-empty-img"><div className="work-empty-img-text">no preview image</div></div>}
+                        {(hasGif)? <img alt={workData.title} src={gifSrc} className="work-gif" /> : <div className="work-gif"></div>}
+                        {hasGif && (isHovered? <div className="work-gif-note hover">GIF</div> : <div className="work-gif-note">GIF</div>)}
+                    </div>
+                    <div className="work-title">
+                        {workData.title}
+                    </div>
+                    <div className="work-job">
+                        {workData.job}
+                    </div>
+                    <div className="work-development-detail-group">
                         <Grid container direction="row">
                             <Grid item xs={2} className="work-team">
                                 <img alt={workData.team} src="./img/person-x13.png" className="team-icon" />
@@ -68,7 +66,7 @@ class ProjectListItem extends Component {
                             </Grid>
                         </Grid>
                     </div>
-                </Grid>
+                </div>
             </Grid>
         );
     }
