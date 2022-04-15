@@ -1,8 +1,8 @@
 {
-  "name": "about-me",
+  "name": "ta-david-yu.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ta-david-yu.github.io/about-me",
+  "homepage": "http://ta-david-yu.github.io",
   "dependencies": {
     "@material-ui/core": "^3.9.4",
     "create-react-app": "^2.1.8",
