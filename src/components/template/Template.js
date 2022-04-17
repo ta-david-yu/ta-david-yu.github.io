@@ -1,9 +1,11 @@
 import React, { Component } from "react";
 
+import "../../css/Portfolio.css";
+
 
 class Template extends Component {
     render() {
-        return (<h>Template</h>);
+        return (<div className="subheader-text">Template</div>);
     }
 }
 

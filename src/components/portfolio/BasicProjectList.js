@@ -60,11 +60,10 @@ class BasicProjectList extends Component {
                             </div>}
                         {currListName === Constants.ProjectCategory.Experimental && 
                             <div>                                    <div className="page-title left show">small-but-sweet games</div>
-                                <div className="page-description">a list of small/experimental games and prototypes,</div>
-                                <div className="page-description">although not all of them are fully complete, I still want to show them because I think they are cool</div>
+                                <div className="page-description">a list of small/experimental games and prototypes that I think are cool</div>
                             </div>}
                     </Grid>
-                    <Grid item lg={lgContainerSpan} md={12} sm={12} xs={12}>                            
+                    <Grid item lg={lgContainerSpan} md={12} sm={12} xs={12}>
                         <div className="work-box-container">
                             {worksItem}
                         </div>

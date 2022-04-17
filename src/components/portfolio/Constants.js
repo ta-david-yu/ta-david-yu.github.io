@@ -11,6 +11,6 @@ export default
     {
         LongTerm: "long-term",
         Experimental: "experimental",
-        Art: "art"
+        Art: "gallery"
     }
 }
