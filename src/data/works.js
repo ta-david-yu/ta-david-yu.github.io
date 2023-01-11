@@ -7,6 +7,8 @@ import TwoDPlatformerHunter from './2DPlatformerHunter';
 import SryNoJumpForYou from './SryNoJumpForYou';
 import RhythmInvaders from './RhythmInvaders';
 import NSShaft from './NS-Shaft-Console';
+import SouperPumpkins from './SouperPumpkins';
+import ThursdaysUptown from './ThursdaysUptown';
 
 const works = [
     {
@@ -73,6 +75,7 @@ const works = [
     },
 
     {
+        "ignore": true,
         "type": "experimental",
         "title": "Rolling Rocker & Eagle Simulator",
         "img": "./img/work/es-rr-preview.png",
@@ -90,6 +93,69 @@ const works = [
         "information": {
             "type": "file",
             "src": RollingRocker_EagleSimulator.information
+        }
+    },
+
+    {
+        "type": "experimental",
+        "title": "Thursday's Uptown",
+        "img": "./img/work/thursdays-uptown-preview.png",
+        "gif": "./img/work/thursdays-uptown-preview.gif",
+        "date": "2020.5 - present",
+        "job": "Designer, Programmer",
+        "team": "2",
+
+        "linksInfo": ThursdaysUptown.linksInfo,
+        "mediaTable": ThursdaysUptown.medias,
+        "description": {
+            "type": "file",
+            "src": ThursdaysUptown.description
+        },
+        "information": {
+            "type": "file",
+            "src": ThursdaysUptown.information
+        }
+    },
+
+    {
+        "type": "experimental",
+        "title": "Magic Shrooms & Soup-er Pumpkins",
+        "img": "./img/work/souper-pumpkins-preview.png",
+        "gif": "./img/work/souper-pumpkins-preview.gif",
+        "date": "2022.11.11 - 13",
+        "job": "Programmer",
+        "team": "6",
+
+        "linksInfo": SouperPumpkins.linksInfo,
+        "mediaTable": SouperPumpkins.medias,
+        "description": {
+            "type": "file",
+            "src": SouperPumpkins.description
+        },
+        "information": {
+            "type": "file",
+            "src": SouperPumpkins.information
+        }
+    },
+
+    {
+        "type": "experimental",
+        "title": "2D Platformer Hunter (Unity Plugin)",
+        "img": "./img/work/platformer-preview.png",
+        "gif": "./img/work/platformer-preview.gif",
+        "date": "2018.10 - present",
+        "job": "Programmer",
+        "team": "1",
+
+        "linksInfo": TwoDPlatformerHunter.linksInfo,
+        "mediaTable": TwoDPlatformerHunter.medias,
+        "description": {
+            "type": "file",
+            "src": TwoDPlatformerHunter.description
+        },
+        "information": {
+            "type": "file",
+            "src": TwoDPlatformerHunter.information
         }
     },
 
@@ -197,27 +263,6 @@ const works = [
         "information": {
             "type": "file",
             "src": ""
-        }
-    },
-
-    {
-        "type": "long-term",
-        "title": "2D Platformer Hunter (Unity Plugin)",
-        "img": "./img/work/platformer-preview.png",
-        "gif": "./img/work/platformer-preview.gif",
-        "date": "2018.10 - present",
-        "job": "Programmer",
-        "team": "1",
-
-        "linksInfo": TwoDPlatformerHunter.linksInfo,
-        "mediaTable": TwoDPlatformerHunter.medias,
-        "description": {
-            "type": "file",
-            "src": TwoDPlatformerHunter.description
-        },
-        "information": {
-            "type": "file",
-            "src": TwoDPlatformerHunter.information
         }
     }
 ];
