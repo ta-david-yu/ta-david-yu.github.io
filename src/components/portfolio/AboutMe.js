@@ -157,7 +157,7 @@ class AboutMe extends Component {
                                 {(currPageType === Constants.PageType.ProjectList) &&
                                     <div>
                                         <PageTab tabName={Constants.ProjectCategory.LongTerm} imgName="game" isActive={currListName === Constants.ProjectCategory.LongTerm} onClick={this.handleOnClickLongTermPageTab} />
-                                        <PageTab tabName={Constants.ProjectCategory.Experimental} imgName="tool" isActive={currListName === Constants.ProjectCategory.Experimental} onClick={this.handleOnClickExperimentalPageTab} />
+                                        <PageTab tabName={Constants.ProjectCategory.Experimental} imgName="experiment" isActive={currListName === Constants.ProjectCategory.Experimental} onClick={this.handleOnClickExperimentalPageTab} />
                                         <PageTab tabName={Constants.ProjectCategory.Art} imgName="art" isActive={currListName === Constants.ProjectCategory.Art} onClick={this.handleOnClickMiscPageTab} />
                                     </div>
                                 }
