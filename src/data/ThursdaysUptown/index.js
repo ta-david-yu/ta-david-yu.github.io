@@ -25,7 +25,7 @@ medias: [
 
 linksInfo: 
 <div>
-            <a href="https://functionoverflu.itch.io/sorry-no-jump-for-you"><img alt="itch-icon" src="./img/itchio-x26.png" className="icon-26" /></a>
+            <a href="https://functionoverflu.itch.io/thursdays-uptown"><img alt="itch-icon" src="./img/itchio-x26.png" className="icon-26" /></a>
 </div>,
 
 information:
