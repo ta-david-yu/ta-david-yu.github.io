@@ -45,7 +45,7 @@ information:
 
 |  | Description |
 | --------- | ------- |
-| Audio Occlusion & Propagation | In combination with FMOD, implemented an audio occlusion & propagation system that simulates occluded sound propagation based on a tech demo shown by Quantom Break's audio engineer (the video source cannot be found anymore). |
+| Audio Occlusion & Propagation | In combination with FMOD, implemented an audio occlusion & propagation simulation system based on a tech demo shown by Quantom Break's audio engineer (the video source cannot be found anymore). |
 
 `}/>
 </div>,
