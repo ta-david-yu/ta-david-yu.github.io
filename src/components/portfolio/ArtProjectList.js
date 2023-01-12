@@ -14,16 +14,6 @@ import '../../css/Portfolio.css';
  */
 class ArtProjectList extends Component {
 
-    constructor(props) {
-        super(props);
-        
-        this.handleOnClickBigButtonTest = this.handleOnClickBigButtonTest.bind(this);
-    }
-
-    handleOnClickBigButtonTest()
-    {
-    }
-
     render() {
         
         const collageMaxWidth = 720;
