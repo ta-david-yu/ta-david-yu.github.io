@@ -5,20 +5,20 @@ export default {
 medias: [
     {
         "type": "video",
-        "src": "https://youtu.be/YSH--V63RQ8",
+        "src": "https://youtu.be/mOFqkkW--zA",
     },
     {
         "type": "image",
-        "src": "./img/work/sry-nojumpforyou-00.png",
+        "src": "./img/work/thursdays-uptown-media-00.jpg",
     },
     {
         "type": "image",
-        "src": "./img/work/sry-nojumpforyou-01.png",
+        "src": "./img/work/thursdays-uptown-media-01.jpg",
         "comment": ""
     },
     {
         "type": "image",
-        "src": "./img/work/sry-nojumpforyou-02.png",
+        "src": "./img/work/thursdays-uptown-media-02.jpg",
         "comment": ""
     },
 ],
