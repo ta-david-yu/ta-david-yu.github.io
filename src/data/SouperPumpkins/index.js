@@ -35,7 +35,7 @@ information:
 
 | | Information |
 | --------- | ------- |
-| Status | Game Jam |
+| Status | Prototype |
 | Platforms | Windows PC |
 | Genre | Action arcade |
 | Made with | Unity |
@@ -59,7 +59,7 @@ description:
 
     <div style={{margin: '12px'}} />
 
-    An action arcade game made for 2022 FemDev Game Jam within 48 hours. The theme was 'Magic'.
+    An action arcade game made for FemDev Game Jam 2022 within 48 hours. The theme was 'Magic'.
     <br/>
     In Magic Shrooms & Soup-er Pumpkins, you control a group of magic mushrooms to collect as many pumpkins as you can,
     to make the tastiest pumpkin soup for yourself and your friends.

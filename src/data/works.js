@@ -122,7 +122,7 @@ const works = [
         "title": "Magic Shrooms & Soup-er Pumpkins",
         "img": "./img/work/souper-pumpkins-preview.png",
         "gif": "./img/work/souper-pumpkins-preview.gif",
-        "date": "2022.11.11 - 13",
+        "date": "femdev game jam 2022",
         "job": "Programmer",
         "team": "6",
 
@@ -160,6 +160,7 @@ const works = [
     },
 
     {
+        "ignore": true,
         "type": "experimental",
         "title": "NS-Shaft console",
         "img": "./img/work/nsshaft-preview_0.png",

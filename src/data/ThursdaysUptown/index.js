@@ -64,7 +64,7 @@ description:
     <br/>
     <br/>
     <div>--</div>
-    What is the goal of the game? What do you actually play in this game?
-    Well, that's up to you to find out! I don't want to get into too much detail. Just play it and you will know what the game is about :)
+    What is the goal of the game?
+    Well, that's for you to find out! I don't want to get into too much detail and spoil the exprience. Just play it and you will know what the game is about :)
 </div>,
 }
