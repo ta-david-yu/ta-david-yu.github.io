@@ -26,7 +26,7 @@ const about = (<div>
         <p>
             I specialize in Unity and have been making games with it for more than <span className="about-text-h">5 years</span>, 
             <br />I have experience in shipping games on <span className="about-text-h">Steam</span> + porting games to <span className="about-text-h">Nintendo Switch</span>
-            <br />And I gained some experience in <span className="about-text-h">Xbox</span> development while working as a programming intern at <span className="about-text-h">Codeglue</span>.
+            <br />I also gained some experience in <span className="about-text-h">Xbox</span> development while working as a programming intern at <span className="about-text-h">Codeglue</span>.
         </p>
         
         You can check out my resume <a className="force-underline" href="./download/TaDavidYu_GameProgrammer_CV.pdf">here</a>
