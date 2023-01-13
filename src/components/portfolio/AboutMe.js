@@ -26,7 +26,7 @@ const about = (<div>
         <p>
             I specialize in Unity and have been making games with it for more than <span className="about-text-h">5 years</span>, 
             <br />I have experience in shipping games on <span className="about-text-h">Steam</span> + porting games to <span className="about-text-h">Nintendo Switch</span>
-            <br />And I gained some experience in <span className="about-text-h">Xbox</span> development while working as a programming intern at <span className="about-text-h">Codeglue</span>.
+            <br />I also gained some experience in <span className="about-text-h">Xbox</span> development while working as a programming intern at <span className="about-text-h">Codeglue</span>.
         </p>
         
         You can check out my resume <a className="force-underline" href="./download/TaDavidYu_GameProgrammer_CV.pdf">here</a>
@@ -157,7 +157,7 @@ class AboutMe extends Component {
                                 {(currPageType === Constants.PageType.ProjectList) &&
                                     <div>
                                         <PageTab tabName={Constants.ProjectCategory.LongTerm} imgName="game" isActive={currListName === Constants.ProjectCategory.LongTerm} onClick={this.handleOnClickLongTermPageTab} />
-                                        <PageTab tabName={Constants.ProjectCategory.Experimental} imgName="tool" isActive={currListName === Constants.ProjectCategory.Experimental} onClick={this.handleOnClickExperimentalPageTab} />
+                                        <PageTab tabName={Constants.ProjectCategory.Experimental} imgName="experiment" isActive={currListName === Constants.ProjectCategory.Experimental} onClick={this.handleOnClickExperimentalPageTab} />
                                         <PageTab tabName={Constants.ProjectCategory.Art} imgName="art" isActive={currListName === Constants.ProjectCategory.Art} onClick={this.handleOnClickMiscPageTab} />
                                     </div>
                                 }
@@ -194,7 +194,7 @@ class AboutMe extends Component {
                     <br/>
                     
                     fonts made by <span/>
-                    <a className="footer-link" href="https://managore.itch.io/">Daniel Linssen</a>, social icons made by <span/>
+                    <a className="footer-link" href="https://managore.itch.io/">Daniel Linssen</a>, social media icons made by <span/>
                     <a className="footer-link" href="https://kronbits.itch.io/matriax-free-assets">Davit Masia</a>
                 </footer>
             </div>

@@ -101,7 +101,7 @@ const works = [
         "title": "Thursday's Uptown",
         "img": "./img/work/thursdays-uptown-preview.png",
         "gif": "./img/work/thursdays-uptown-preview.gif",
-        "date": "2020.5 - present",
+        "date": "2020.5 - 2020.12",
         "job": "Designer, Programmer",
         "team": "2",
 

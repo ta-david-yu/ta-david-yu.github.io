@@ -14,16 +14,6 @@ import '../../css/Portfolio.css';
  */
 class ArtProjectList extends Component {
 
-    constructor(props) {
-        super(props);
-        
-        this.handleOnClickBigButtonTest = this.handleOnClickBigButtonTest.bind(this);
-    }
-
-    handleOnClickBigButtonTest()
-    {
-    }
-
     render() {
         
         const collageMaxWidth = 720;
@@ -69,18 +59,18 @@ class ArtProjectList extends Component {
                     </Grid>
                     <Grid item lg={lgContainerSpan} md={12} sm={12} xs={12}>
                         <div className="work-box-container">
-                            <Link to="/art" style={{ textDecoration: 'none' }}>
+                            <a href="https://ta-david-yu.tumblr.com/tagged/pixelart" target="_blank">
                                 <div className="big-button-container">
                                     <img alt={"pixel art gallery"} src={"./img/big-btn-pixelart.png"} className={"big-button-pixel-art"}/>
                                     <div className="big-button-in-image-subtitle">pixel art</div>
                                 </div>
-                            </Link>
-                            <Link to="/gameplay" style={{ textDecoration: 'none' }}>
+                            </a>
+                            <a href="https://ta-david-yu.tumblr.com/tagged/footage" target="_blank">
                                 <div className="big-button-container">
                                     <img alt={"gameplay footage gallery"} src={"./img/big-btn-gameplay.png"} className={"big-button-gameplay"}/>
                                     <div className="big-button-in-image-subtitle">gameplay footage</div>
                                 </div>
-                            </Link>
+                            </a>
                         </div>
                     </Grid>
                 </Grid>

@@ -5,27 +5,27 @@ export default {
 medias: [
     {
         "type": "video",
-        "src": "https://youtu.be/YSH--V63RQ8",
+        "src": "https://youtu.be/mOFqkkW--zA",
     },
     {
         "type": "image",
-        "src": "./img/work/sry-nojumpforyou-00.png",
+        "src": "./img/work/thursdays-uptown-media-00.jpg",
     },
     {
         "type": "image",
-        "src": "./img/work/sry-nojumpforyou-01.png",
+        "src": "./img/work/thursdays-uptown-media-01.jpg",
         "comment": ""
     },
     {
         "type": "image",
-        "src": "./img/work/sry-nojumpforyou-02.png",
+        "src": "./img/work/thursdays-uptown-media-02.jpg",
         "comment": ""
     },
 ],
 
 linksInfo: 
 <div>
-            <a href="https://functionoverflu.itch.io/sorry-no-jump-for-you"><img alt="itch-icon" src="./img/itchio-x26.png" className="icon-26" /></a>
+            <a href="https://functionoverflu.itch.io/thursdays-uptown"><img alt="itch-icon" src="./img/itchio-x26.png" className="icon-26" /></a>
 </div>,
 
 information:
@@ -45,7 +45,7 @@ information:
 
 |  | Description |
 | --------- | ------- |
-| Audio Occlusion & Propagation | In combination with FMOD, implemented an audio occlusion & propagation system that simulates occluded sound propagation based on a tech demo shown by Quantom Break's audio engineer (the video source cannot be found anymore). |
+| Audio Occlusion & Propagation | In combination with FMOD, implemented an audio occlusion & propagation simulation system based on a tech demo shown by Quantom Break's audio engineer (the video source cannot be found anymore). |
 
 `}/>
 </div>,
@@ -59,12 +59,16 @@ description:
 
     <div style={{margin: '12px'}} />
 
-    A short bizarre first-person adventure & exploration game with PS1-style graphics. A parody of the popular Japanese TV show 'Wednesday's Downtown (水曜日のダウンタウン)'.
-    
+    A short bizarre first-person adventure & exploration game with PS1-style graphics. You are in this seemingly normal apartment but something is off.
+    Explore and find out the hidden secrets alone.
+
     <br/>
     <br/>
     <div>--</div>
-    What is the goal of the game?
-    Well, that's for you to find out! I don't want to get into too much detail and spoil the exprience. Just play it and you will know what the game is about :)
+    A parody of the popular Japanese TV show 'Wednesday's Downtown (水曜日のダウンタウン)'.
+    
+    <br/>
+    <br/>
+    <div>Trailer music made by <a href="http://loyaltyfreakmusic.com/about">Monplaisir</a>.</div>
 </div>,
 }

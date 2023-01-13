@@ -1,42 +1,48 @@
 import React, { Component } from "react"
 import {
-  BrowserRouter,
   HashRouter,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
+import { Fragment } from "react";
 
+import ScrollToTop from "./ScrollToTop";
 import AboutMe from "./AboutMe";
-import About from "../webpage/About";
+import ArtGallery from "./ArtGallery";
 import Template from "../template/Template";
 import withWindowSize from '../withWindowSize';
 import Constants from "./Constants";
+import TableOfContents from "./TableOfContents";
 
 class Main extends Component {
 
+    // Route to /art & /gameplay is currently deprecated.
+    // Right now these two buttons are linked to tumblr page directly.
     render() {
         return (
             <HashRouter>
-                <Switch>
-                    <Route exact path="/">
-                        <AboutMe />
-                    </Route>
-                    <Route path="/about-me">
-                        <AboutMe />
-                    </Route>
-                    
-                    <Route path="/art">
-                        <Template />
-                    </Route>
-                    <Route path="/gameplay">
-                        <Template />
-                    </Route>
-
-                    <Route path="*">
-                        <AboutMe />
-                    </Route>
-                </Switch>
+                <Fragment>
+                    <ScrollToTop />
+                    <Switch>
+                        <Route exact path="/">
+                            <AboutMe />
+                        </Route>
+                        <Route path="/about-me">
+                            <AboutMe />
+                        </Route>
+                        
+                        <Route path="/art">
+                            <ArtGallery />
+                        </Route>
+                        <Route path="/gameplay">
+                            <Template />
+                        </Route>
+                        
+                        <Route path="*">
+                            <AboutMe />
+                        </Route>
+                    </Switch>
+                </Fragment>
             </HashRouter>
         );
     }
