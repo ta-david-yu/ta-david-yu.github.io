@@ -16,6 +16,8 @@ import TableOfContents from "./TableOfContents";
 
 class Main extends Component {
 
+    // Route to /art & /gameplay is currently deprecated.
+    // Right now these two buttons are linked to tumblr page directly.
     render() {
         return (
             <HashRouter>
@@ -35,7 +37,7 @@ class Main extends Component {
                         <Route path="/gameplay">
                             <Template />
                         </Route>
-
+                        
                         <Route path="*">
                             <AboutMe />
                         </Route>

@@ -15,8 +15,15 @@ const GridOffset = (props) => { return <Grid item></Grid>; }
 
 class ArtGallery extends Component {
 
+    componentDidMount()
+    {
+        //window.open('https://www.google.com', '_blank');
+        //window.location.replace('https://www.google.com')
+    }
+
     constructor(props) {
         super(props);
+        console.warn(`WARNING! Obsolete class constructed. ${ArtGallery.name} has been deprecated. We are using tumblr directly.`);
     }
 
     render() {
