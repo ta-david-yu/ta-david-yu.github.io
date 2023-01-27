@@ -17,19 +17,23 @@ const about = (<div>
     <div className="about-text">
         <p>
             Hello! I am a game developer/programmer from Taiwan. I have a bachelor's degree in <span className="about-text-h">Computer Science</span> 
-            <br />Currently studying <span className="about-text-h">B.A. Digital Games</span> in Cologne Game Lab, Germany
+            <br />Currently studying <span className="about-text-h">B.A. Digital Games</span> in Cologne Game Lab, Germany.
         </p>
         <p>
             My main interests are <span className="about-text-h">gameplay programming</span> and making <span className="about-text-h">tools</span> to improve the development process for my team,
-            <br />Besides that, I also enjoy creating <span className="about-text-h">juicy visual feedbacks & procedural animations</span>
+            <br />Besides that, I also enjoy creating <span className="about-text-h">juicy visual feedbacks & procedural animations.</span>
         </p>
         <p>
-            I specialize in Unity and have been making games with it for more than <span className="about-text-h">5 years</span>, 
-            <br />I have experience in shipping games on <span className="about-text-h">Steam</span> + porting games to <span className="about-text-h">Nintendo Switch</span>
+            I mainly specialize in <span className="about-text-h">Unity</span> and have been making games with it for more than <span className="about-text-h">5 years</span>, 
+            <br />
+            but I also use <span className="about-text-h">C++</span> in smaller projects. I am currently working on a <span className="about-text-h">custom 2D game engine</span> for my Bachelor thesis.
+        </p>
+        <p>
+            I have experience in shipping games on <span className="about-text-h">Steam</span> + porting games to <span className="about-text-h">Nintendo Switch</span>
             <br />I also gained some experience in <span className="about-text-h">Xbox</span> development while working as a programming intern at <span className="about-text-h">Codeglue</span>.
         </p>
         
-        You can check out my resume <a className="force-underline" href="./download/TaDavidYu_GameProgrammer_CV (2023_01_00).pdf">here</a>
+        You can check out my resume <a className="force-underline" href="./download/TaDavidYu_GameProgrammer_CV (2023_01_02).pdf">here</a>
 
         <div>--</div>
         <span className="following-text">Following are some of my games & tools & artworks <br />(roughly in order of completeness)</span>
