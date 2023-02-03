@@ -71,6 +71,6 @@ description:
     <br/>
     <br/>
     <div>Music made by <a href="http://loyaltyfreakmusic.com/about">Monplaisir</a>.</div>
-    <div>Font create by <a href="https://managore.itch.io/">Daniel Linssen</a>.</div>
+    <div>Font created by <a href="https://managore.itch.io/">Daniel Linssen</a>.</div>
 </div>,
 }

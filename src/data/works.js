@@ -9,6 +9,7 @@ import RhythmInvaders from './RhythmInvaders';
 import NSShaft from './NS-Shaft-Console';
 import SouperPumpkins from './SouperPumpkins';
 import ThursdaysUptown from './ThursdaysUptown';
+import DYETechDemo from './DYE-Tech-Demo';
 
 const works = [
     {
@@ -71,6 +72,27 @@ const works = [
         "information": {
             "type": "file",
             "src": SryNoJumpForYou.information
+        }
+    },
+
+    {
+        "type": "experimental",
+        "title": "DYEngine Tech Demo",
+        "img": "./img/work/dye-tech-demo-preview.png",
+        "gif": "./img/work/dye-tech-demo-preview.gif",
+        "date": "2023.1 - 2023.2",
+        "job": "Designer, Programmer, Artist",
+        "team": "1",
+
+        "linksInfo": DYETechDemo.linksInfo,
+        "mediaTable": DYETechDemo.medias,
+        "description": {
+            "type": "file",
+            "src": DYETechDemo.description 
+        },
+        "information": {
+            "type": "file",
+            "src": DYETechDemo.information
         }
     },
 

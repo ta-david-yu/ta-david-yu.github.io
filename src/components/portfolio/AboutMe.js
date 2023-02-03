@@ -26,14 +26,14 @@ const about = (<div>
         <p>
             I mainly specialize in <span className="about-text-h">Unity</span> and have been making games with it for more than <span className="about-text-h">5 years</span>, 
             <br />
-            but I also use <span className="about-text-h">C++</span> in smaller projects. I am currently working on a <span className="about-text-h">custom 2D game engine</span> for my Bachelor thesis.
+            but I also use <span className="about-text-h">C++</span> in smaller projects. I am currently working on a <span className="about-text-h">custom 2D game engine</span> for my bachelor thesis.
         </p>
         <p>
             I have experience in shipping games on <span className="about-text-h">Steam</span> + porting games to <span className="about-text-h">Nintendo Switch</span>
             <br />I also gained some experience in <span className="about-text-h">Xbox</span> development while working as a programming intern at <span className="about-text-h">Codeglue</span>.
         </p>
         
-        You can check out my resume <a className="force-underline" href="./download/TaDavidYu_GameProgrammer_CV (2023_01_02).pdf">here</a>
+        You can check out my resume <a className="force-underline" href="./download/TaDavidYu_GameProgrammer_CV (2023_02_03).pdf">here</a>
 
         <div>--</div>
         <span className="following-text">Following are some of my games & tools & artworks <br />(roughly in order of completeness)</span>
