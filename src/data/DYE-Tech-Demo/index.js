@@ -54,8 +54,9 @@ information:
 | Feature   | Description |
 | --------- | ------- |
 | Custom Game Engine | Made with a custom 2D game engine based on SDL2 (OpenGL) & Dear ImGui. |
-| Multiple Windows Management | Built a windows management system to manipulate windows and rendering targets easily. This also allows me to create window particles system in the game. |
 | Collision Detection Library | Implemented a library that performs shape pair tests (both static & dynamic) for ray, circle and AABB. |
+| Custom Shader Preprocessor Syntax & Parser | Built a shader preprocessor system that enables DYEngine's custom shader syntax in GLSL shaders. Right now it provides syntax to define commands for render state settings (i.e. depth/blend operation) & syntax to expose uniforms as properties which could be modify per material instance. |
+| Multiple Windows Management | Built a windows management system to manipulate windows & rendering targets easily. This also allows me to create window particles system in the game. |
 
 `}/>
 </div>,
