@@ -27,7 +27,6 @@ medias: [
 linksInfo:
 <div>
     <a href="https://deathbybroccoli.itch.io/out-of-the-mist"><img alt="itch-icon" src="./img/itchio-x26.png" className="icon-26" /></a>
-    <a href="https://dbbstudio.com/"><img alt="globe-icon" src="./img/globe-x26.png" className="icon-26" /></a>
 </div>
 ,
 
