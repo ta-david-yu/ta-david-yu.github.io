@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f3b7d3afd87e096559c3",
+    "revision": "eb0fc5999172bd2ab6e2",
     "url": "/static/css/main.d9d93dfd.chunk.css"
   },
   {
-    "revision": "f3b7d3afd87e096559c3",
-    "url": "/static/js/main.2c193159.chunk.js"
+    "revision": "eb0fc5999172bd2ab6e2",
+    "url": "/static/js/main.9c02a7e6.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -20,28 +20,24 @@ self.__precacheManifest = [
     "url": "/static/media/big-btn-gameplay.5111fb92.png"
   },
   {
+    "revision": "cc8dfaa3938829493e45c4a13b6629c3",
+    "url": "/static/media/m6x11.cc8dfaa3.ttf"
+  },
+  {
     "revision": "1c36fac5bce0b7b7e40d1d6d6b1030fb",
     "url": "/static/media/m5x7.1c36fac5.ttf"
   },
   {
-    "revision": "b99dd26c57ef102981d6905fe699d79a",
-    "url": "/static/media/m5x7.b99dd26c.woff"
-  },
-  {
-    "revision": "06395abf41c85035bfa146196fbb672b",
-    "url": "/static/media/m6x11.06395abf.woff"
+    "revision": "1681d9b97eb6ced79230094129e0c5b3",
+    "url": "/static/media/m5x7.1681d9b9.woff2"
   },
   {
     "revision": "dc97bf0051a47911c9ef8e5bef5c037f",
     "url": "/static/media/m5x7.dc97bf00.svg"
   },
   {
-    "revision": "cc8dfaa3938829493e45c4a13b6629c3",
-    "url": "/static/media/m6x11.cc8dfaa3.ttf"
-  },
-  {
-    "revision": "1681d9b97eb6ced79230094129e0c5b3",
-    "url": "/static/media/m5x7.1681d9b9.woff2"
+    "revision": "b99dd26c57ef102981d6905fe699d79a",
+    "url": "/static/media/m5x7.b99dd26c.woff"
   },
   {
     "revision": "4b67f4cae7b165eb8df707021f06dccf",
@@ -52,7 +48,11 @@ self.__precacheManifest = [
     "url": "/static/media/m6x11.ec0d4e88.svg"
   },
   {
-    "revision": "73d0e541b5b6d2c6f0e3d6c44f123851",
+    "revision": "06395abf41c85035bfa146196fbb672b",
+    "url": "/static/media/m6x11.06395abf.woff"
+  },
+  {
+    "revision": "21d268aa9a37d8c27b71459887fa997d",
     "url": "/index.html"
   }
 ];
