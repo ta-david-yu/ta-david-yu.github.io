@@ -51,9 +51,6 @@ description:
     After the first semester, we decided to keep working on the game together
     and possibly release it in the future.
 
-    <br/>
-    <br/>
-    We are also one of the teams in CGL Incubator.
 </div>,
 
 information:
