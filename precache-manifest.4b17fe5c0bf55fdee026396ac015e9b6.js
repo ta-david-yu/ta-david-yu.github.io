@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2e1c31a02369346f483c",
+    "revision": "f6d5728136ed8fc51782",
     "url": "/static/css/main.d9d93dfd.chunk.css"
   },
   {
-    "revision": "2e1c31a02369346f483c",
-    "url": "/static/js/main.86a6cb24.chunk.js"
+    "revision": "f6d5728136ed8fc51782",
+    "url": "/static/js/main.2afbf7ee.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -20,20 +20,20 @@ self.__precacheManifest = [
     "url": "/static/media/big-btn-gameplay.5111fb92.png"
   },
   {
-    "revision": "06395abf41c85035bfa146196fbb672b",
-    "url": "/static/media/m6x11.06395abf.woff"
-  },
-  {
     "revision": "b99dd26c57ef102981d6905fe699d79a",
     "url": "/static/media/m5x7.b99dd26c.woff"
+  },
+  {
+    "revision": "4b67f4cae7b165eb8df707021f06dccf",
+    "url": "/static/media/m6x11.4b67f4ca.woff2"
   },
   {
     "revision": "cc8dfaa3938829493e45c4a13b6629c3",
     "url": "/static/media/m6x11.cc8dfaa3.ttf"
   },
   {
-    "revision": "4b67f4cae7b165eb8df707021f06dccf",
-    "url": "/static/media/m6x11.4b67f4ca.woff2"
+    "revision": "06395abf41c85035bfa146196fbb672b",
+    "url": "/static/media/m6x11.06395abf.woff"
   },
   {
     "revision": "1681d9b97eb6ced79230094129e0c5b3",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/m5x7.dc97bf00.svg"
   },
   {
-    "revision": "5bff77b09a8d007c8a27b881c6537c23",
+    "revision": "164d0350a186d2ae31e3d431607e1efd",
     "url": "/index.html"
   }
 ];
