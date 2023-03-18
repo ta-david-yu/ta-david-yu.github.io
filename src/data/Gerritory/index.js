@@ -55,11 +55,11 @@ information:
 | Team | Cheng-Kai Chiu (Programmer), Ta David Yu (Programmer/Artist), Yu-Han Lu (Programmer), Yun-Xuan Lin (Programmer/Artist) |
 | Digital Crafter (Publisher) | Glen Zhang (Network Programmer), Ken Wei, Paus Chen |
 
-** Some of the notable features I implemented **
+** Some of the notable features/tasks I did **
 
 |  | Description |
 | --------- | ------- |
-| Switch Porting | I optimized and ported Gerritory to nintendo switch in Unity. |
+| Switch Porting & Optimization | I optimized and ported Gerritory to Nintendo Switch in Unity. Optimization includes reducing draw calls with GPU Instancing, improving game startup loading time, implementing centralized objects update/poll manager to reduce Update() overhead, and a lot more. |
 | Runtime Level Editor | I implemented an in-game level editor that has rect copying and undo/redo features using Command pattern. |
 | Png Level Metadata | I used steganography to save level data inside the screenshot image of that level. It's similar to how [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game)) stores creatures data in png files. Therefore it’s possible to know the level layout just by looking at the png file that stores the level data. |
 | Tween Manager | I implemented a small tweening library simliar to DOTween but simplified, which allows users to play easing animation sequence in code easily. It makes use of object pooling to avoid unnecessary memory allocation. The library has been used in my several other projects since then. |
