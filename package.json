@@ -10,6 +10,7 @@
     "react-collapsible": "^2.8.4",
     "react-custom-scrollbars": "^4.2.1",
     "react-dom": "^16.14.0",
+    "react-ga": "^3.3.1",
     "react-markdown": "^4.3.1",
     "react-modal": "^3.14.4",
     "react-photo-collage": "^1.0.9",
