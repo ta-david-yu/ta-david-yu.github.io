@@ -10,8 +10,31 @@ import NSShaft from './NS-Shaft-Console';
 import SouperPumpkins from './SouperPumpkins';
 import ThursdaysUptown from './ThursdaysUptown';
 import DYETechDemo from './DYE-Tech-Demo';
+import DYEngine from './DYEngine';
 
 const works = [
+
+    {
+        "type": "long-term",
+        "title": "DYEngine (Game Engine)",
+        "img": "./img/work/dyengine-preview.png",
+        "gif": "",
+        "date": "2022.11 - present",
+        "job": "Developer",
+        "team": "1",
+        
+        "linksInfo": DYEngine.linksInfo,
+        "mediaTable": DYEngine.medias,
+        "description": {
+            "type": "file",
+            "src": DYEngine.description
+        },
+        "information": {
+            "type": "file",
+            "src": DYEngine.information
+        }
+    },
+
     {
         "type": "long-term",
         "title": "Gerritory",

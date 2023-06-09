@@ -53,10 +53,8 @@ information:
 
 | Feature   | Description |
 | --------- | ------- |
-| Custom Game Engine | Made with a custom 2D game engine based on SDL2 (OpenGL) & Dear ImGui. |
-| Collision Detection Library | Implemented a library that performs shape pair tests (both static & dynamic) for ray, circle and AABB. |
-| Custom Shader Preprocessor Syntax & Parser | Built a shader preprocessor system that enables DYEngine's custom shader syntax in GLSL shaders. Right now it provides syntax to define commands for render state settings (i.e. depth/blend operation) & syntax to expose uniforms as properties which could be modify per material instance. |
-| Multiple Windows Management | Built a windows management system to manipulate windows & rendering targets easily. This also allows me to create window particles system in the game. |
+| Custom Game Engine | Made with my custom 2D game engine DYEngine, which is based on SDL2 (OpenGL) & Dear ImGui. |
+| Multiple Windows Management | Built a window-based particle system with it. |
 
 `}/>
 </div>,
@@ -70,11 +68,6 @@ description:
     <div style={{margin: '12px'}} />
 
     DYEngine Tech Demo is an arcade game collection that consists of 2 mini-games. I made it to test out some basic features of my custom 2D game engine - DYEngine.
-    <br/>
-    <br/>
-    I originally programmed the game engine out of my curiosity for the fundamentals of game technology. The development was put on a halt for a while.
-    <br/>
-    I picked it up again in late 2022 and plan to improve and use it as the base technology for my bachelor thesis, which will focus on researching Entity-Component-System.
     <br/>
     <br/>
     The 2 mini-games are:

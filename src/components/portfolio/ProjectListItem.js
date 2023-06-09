@@ -45,7 +45,7 @@ class ProjectListItem extends Component {
                 <div className={"work-box box-other"} onClick={this.handleOnClick} onPointerEnter={this.onPointerEnter} onPointerLeave={this.onPointerLeave}>
                     <div className="work-img-container">
                         {(hasImg)? <img alt={workData.title} src={imgSrc} className={(hasGif)? gifClassName : "work-img"} /> : <div className="work-empty-img"><div className="work-empty-img-text">no preview image</div></div>}
-                        {(hasGif)? <img alt={workData.title} src={gifSrc} className="work-gif" /> : <div className="work-gif"></div>}
+                        {(hasGif)? <img alt={workData.title} src={gifSrc} className="work-gif" /> : <img alt={workData.title} src={imgSrc} className="work-gif" />}
                         {hasGif && (isHovered? <div className="work-gif-note hover">GIF</div> : <div className="work-gif-note">GIF</div>)}
                     </div>
                     <div className="work-title">
