@@ -1168,7 +1168,7 @@ tr:nth-child(odd) {
     position: absolute;
 
     font-family: 'Anonymous Pro', monospace;
-    font-size: 16px;
+    font-size: 14px;
 
     background-image: linear-gradient(to right, #00000050, #00000090, #000000c0, #000000c0, #00000090, #00000050);
     color: #f6d6bd;
