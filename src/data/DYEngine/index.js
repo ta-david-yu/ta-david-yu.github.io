@@ -5,8 +5,8 @@ export default {
 medias: [
     {
         "type": "video",
-        "src": "https://youtu.be/0Ec9nOp_UNc",
-        "comment": "DYEngine Showcase"
+        "src": "https://youtu.be/ZrwCcynemSA",
+        "comment": "DYEngine Feature Highlights 2023"
     },
     {
         "type": "video",
@@ -54,8 +54,9 @@ information:
 
 | Feature   | Description |
 | --------- | ------- |
-| Entity-Component-System (entt) Integration | entt ecs is used as the main game object model for DYEditor. |
+| Entity-Component-System (entt) Integration | EnTT ecs is used as the main game object model for DYEditor. |
 | Scene Editor Interface | This includes a scene hierarchy, entity inspector, scene system inspector and a lot more editor windows. |
+| Type-Info Code Generation | Implemented a custom code generator that generates RTTI code for the editor to serialize and draw interface for custom types. |
 | Undo and Redo System | |
 | Scene Serialization | Scene files are saved as human-readable toml text file. |
 | Built-Components and Systems | Transform, hierarchy-related components, sprite rendering, audio system, window operation, scene loading operation...etc |
