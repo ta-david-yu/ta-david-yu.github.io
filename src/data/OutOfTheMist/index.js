@@ -26,6 +26,7 @@ medias: [
 
 linksInfo:
 <div>
+    <a href="https://store.steampowered.com/app/1886930/Out_of_the_Mist/"><img alt="steam-icon" src="./img/steam-x26.png" className="icon-26" /></a>
     <a href="https://deathbybroccoli.itch.io/out-of-the-mist"><img alt="itch-icon" src="./img/itchio-x26.png" className="icon-26" /></a>
 </div>
 ,
