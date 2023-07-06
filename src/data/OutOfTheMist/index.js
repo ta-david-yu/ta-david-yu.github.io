@@ -50,7 +50,9 @@ description:
     <div>--</div>
     Out Of The Mist is originally our first-semester project in Cologne Game Lab.
     After the first semester, we decided to keep working on the game together
-    and possibly release it in the future.
+    and possibly release it in the future. 
+    Unfortunately We didn't manage to continue the development 
+    but eventually decided to put the prototype on the steam for free.
 
 </div>,
 

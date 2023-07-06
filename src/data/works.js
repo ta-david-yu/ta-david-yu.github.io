@@ -61,7 +61,7 @@ const works = [
         "title": "Out Of the Mist",
         "img": "./img/work/ootm-preview.png",
         "gif": "./img/work/ootm-preview.gif",
-        "date": "2020.1 - present",
+        "date": "2019.11 - 2020.2",
         "job": "Programmer",
         "team": "5",
 
