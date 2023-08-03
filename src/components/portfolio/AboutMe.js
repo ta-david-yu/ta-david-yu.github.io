@@ -34,7 +34,7 @@ const about = (<div>
             <br />Morever, I gained some experience in <span className="about-text-h">Xbox</span> development while working as a programming intern at <span className="about-text-h">Codeglue</span>.
         </p>
         
-        You can check out my resume <a className="force-underline" href="./download/TaDavidYu_GameProgrammer_CV (2023_07_04_00).pdf">here</a>
+        You can check out my resume <a className="force-underline" href="./download/TaDavidYu_GameProgrammer_CV (2023_07_17_00).pdf">here</a>
 
         <div>--</div>
         <span className="following-text">Following are some of my games & tools & artworks <br />(roughly in order of completeness)</span>
