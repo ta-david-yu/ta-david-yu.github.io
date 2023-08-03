@@ -63,7 +63,7 @@ information:
 
 | | Information |
 | --------- | ------- |
-| Status | In Development |
+| Status | Released |
 | Platforms | Windows PC |
 | Genre | Single-player exploration game |
 | Made with | Unity |
