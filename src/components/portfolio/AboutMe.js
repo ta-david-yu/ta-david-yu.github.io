@@ -17,20 +17,21 @@ const about = (<div>
     <div className="subheader-text">game developer, game programmer</div>
     <div className="about-text">
         <p>
-            Hello! I am a game developer/programmer from Taiwan. I have a bachelor's degree in <span className="about-text-h">Computer Science</span> 
-            <br />Currently studying <span className="about-text-h">B.A. Digital Games</span> in Cologne Game Lab, Germany.
+            Hello! I am a game developer/programmer from Taiwan. I have a bachelor's degree in <span className="about-text-h">Computer Science</span>.
+            <br />I've recently graduated from Cologne Game Lab. 
+            <br />Currently I am working as a freelance game programmer at <span className="about-text-h">BearBone Studio</span>.
         </p>
         <p>
             My main interests are <span className="about-text-h">gameplay programming</span> and making <span className="about-text-h">tools</span> to improve the development process for my team,
             <br />Besides that, I also enjoy creating <span className="about-text-h">juicy visual feedbacks & procedural animations.</span>
         </p>
         <p>
-            I mainly specialize in <span className="about-text-h">Unity</span> and have been making games with it for more than <span className="about-text-h">5 years</span>.
+            I mainly specialize in <span className="about-text-h">Unity</span> and have been making games with it for more than <span className="about-text-h">6 years</span>.
             <br />
-            I also use <span className="about-text-h">C++</span> in personal projects. I am currently working on a <span className="about-text-h">custom 2D game engine</span> for my bachelor thesis.
+            I also use <span className="about-text-h">C++</span> in personal projects. I am making a <span className="about-text-h">custom 2D game engine</span> in my free time.
         </p>
         <p>
-            I have experience in shipping games on <span className="about-text-h">Steam</span> as well as porting games to <span className="about-text-h">Nintendo Switch</span>
+            I have experience in shipping games on <span className="about-text-h">Steam</span> as well as porting games to <span className="about-text-h">Nintendo Switch</span>.
             <br />Morever, I gained some experience in <span className="about-text-h">Xbox</span> development while working as a programming intern at <span className="about-text-h">Codeglue</span>.
         </p>
         

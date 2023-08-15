@@ -65,7 +65,7 @@ description:
     <br/>
     <br/>
     <div>--</div>
-    A parody of the popular Japanese TV show 'Wednesday's Downtown (水曜日のダウンタウン)'.
+    A parody of & homage to the popular Japanese TV show 'Wednesday's Downtown (水曜日のダウンタウン)'.
     
     <br/>
     <br/>
