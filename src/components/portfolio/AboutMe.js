@@ -17,25 +17,24 @@ const about = (<div>
     <div className="subheader-text">game developer, game programmer</div>
     <div className="about-text">
         <p>
-            Hello! I am a game developer/programmer from Taiwan. I have a bachelor's degree in <span className="about-text-h">Computer Science</span>.
-            <br />I've recently graduated from Cologne Game Lab. 
-            <br />Currently I am working as a freelance game programmer at <span className="about-text-h">BearBone Studio</span>.
+            Hello! I am a game developer/programmer from Taiwan with a bachelor's degree in <span className="about-text-h">Computer Science</span>.
+            <br />Recently graduated from Cologne Game Lab, I'm currently freelancing as a game programmer at <span className="about-text-h">BearBone Studio</span>.
         </p>
         <p>
-            My main interests are <span className="about-text-h">gameplay programming</span> and making <span className="about-text-h">tools</span> to improve the development process for my team,
+            My work spans various aspects of game programming, 
+            <br />with my main interests lying in <span className="about-text-h">gameplay, tools & engine system programming</span>.
             <br />Besides that, I also enjoy creating <span className="about-text-h">juicy visual feedbacks & procedural animations.</span>
         </p>
         <p>
-            I mainly specialize in <span className="about-text-h">Unity</span> and have been making games with it for more than <span className="about-text-h">6 years</span>.
-            <br />
-            I also use <span className="about-text-h">C++</span> in personal projects. I am making a <span className="about-text-h">custom 2D game engine</span> in my free time.
+            Primarily specializing in <span className="about-text-h">Unity</span> for over 6 years, I also delve into personal projects using <span className="about-text-h">C++</span>. 
+            <br /> In my spare time, I'm developing a <span className="about-text-h">custom 2D game engine</span>.
         </p>
         <p>
             I have experience in shipping games on <span className="about-text-h">Steam</span> as well as porting games to <span className="about-text-h">Nintendo Switch</span>.
             <br />Morever, I gained some experience in <span className="about-text-h">Xbox</span> development while working as a programming intern at <span className="about-text-h">Codeglue</span>.
         </p>
         
-        You can check out my resume <a className="force-underline" href="./download/TaDavidYu_GameProgrammer_CV (2023_10_09_00).pdf">here</a>
+        You can check out my resume <a className="force-underline" href="./download/TaDavidYu_GameProgrammer_CV (2024_07_15_00).pdf">here</a>
 
         <div>--</div>
         <span className="following-text">Following are some of my games & tools & artworks <br />(roughly in order of completeness)</span>
