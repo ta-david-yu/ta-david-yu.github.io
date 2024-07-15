@@ -18,7 +18,7 @@ const about = (<div>
     <div className="about-text">
         <p>
             Hello! I am a game developer/programmer from Taiwan with a bachelor's degree in <span className="about-text-h">Computer Science</span>.
-            <br />Recently graduated from Cologne Game Lab, I'm currently freelancing as a game programmer at <span className="about-text-h">BearBone Studio</span>.
+            <br />Last year graduated from Cologne Game Lab, I'm currently freelancing as a game programmer at <span className="about-text-h">BearBone Studio</span>.
         </p>
         <p>
             My work spans various aspects of game programming, 
