@@ -18,7 +18,8 @@ const about = (<div>
     <div className="about-text">
         <p>
             Hello! I am a game developer/programmer from Taiwan with a bachelor's degree in <span className="about-text-h">Computer Science</span>.
-            <br />Last year graduated from Cologne Game Lab, I'm currently freelancing as a game programmer at <span className="about-text-h">BearBone Studio</span>.
+            <br />Last year graduated from Cologne Game Lab, I'm currently working as a software engineer at <span className="about-text-h">Lucas-Nülle GmbH</span>.
+            <br />The most recent commercial game project I worked on is <span className="about-text-h">Minds Beneath Us</span> at <span className="about-text-h">BearBone Studio</span>.
         </p>
         <p>
             My work spans various aspects of game programming, 
@@ -26,7 +27,7 @@ const about = (<div>
             <br />Besides that, I also enjoy creating <span className="about-text-h">juicy visual feedbacks & procedural animations.</span>
         </p>
         <p>
-            Primarily specializing in <span className="about-text-h">Unity</span> for over 6 years, I also delve into personal projects using <span className="about-text-h">C++</span>. 
+            Primarily specializing in <span className="about-text-h">Unity</span> for over 7 years, I also delve into personal projects using <span className="about-text-h">C++</span>. 
             <br /> In my spare time, I'm developing a <span className="about-text-h">custom 2D game engine</span>.
         </p>
         <p>
@@ -34,7 +35,7 @@ const about = (<div>
             <br />Morever, I gained some experience in <span className="about-text-h">Xbox</span> development while working as a programming intern at <span className="about-text-h">Codeglue</span>.
         </p>
         
-        You can check out my resume <a className="force-underline" href="./download/TaDavidYu_GameProgrammer_CV (2024_07_15_01).pdf">here</a>
+        You can check out my resume <a className="force-underline" href="./download/TaDavidYu_GameProgrammer_CV (2024_11_04_00).pdf">here</a>
 
         <div>--</div>
         <span className="following-text">Following are some of my games & tools & artworks <br />(roughly in order of completeness)</span>
