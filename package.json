@@ -6,7 +6,9 @@
   "dependencies": {
     "@material-ui/core": "^3.9.4",
     "create-react-app": "^2.1.8",
+    "path-browserify": "^1.0.1",
     "react": "^16.14.0",
+    "react-app-rewired": "^2.2.1",
     "react-collapsible": "^2.8.4",
     "react-custom-scrollbars": "^4.2.1",
     "react-dom": "^16.14.0",
@@ -16,13 +18,15 @@
     "react-photo-collage": "^1.0.9",
     "react-player": "^1.15.3",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "^2.1.8",
+    "react-scripts": "^5.0.0",
     "react-transition-group": "^2.9.0",
     "styled-components": "^5.3.5"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start:obsolete": "react-scripts start",
+    "start": "react-app-rewired start",
+    "build:obsolete": "react-scripts build",
+    "build": "react-app-rewired build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
