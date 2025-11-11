@@ -34,6 +34,16 @@ a:hover {
   color: var(--global-link-hovered);
 }
 
+.logo {
+  width: 128px;
+  height: 128px;
+  image-rendering: pixelated;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 24px;
+}
+
 titleBody h1,
 titleBody h2,
 titleBody h3 {
